@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\maks\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\maks\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ISIT.1843049814.00" t="ExcludeRecursive" />
+    <e p="D:\prog\c#\ISIT" t="IncludeFlat">
+      <e p="ISIT.sln" t="IncludeFlat" />
+      <e p="LibTask2_17" t="IncludeRecursive">
+        <e p="Aling.cs" t="Include" />
+        <e p="AnalysisText.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LibTask2_17.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="LibTask5_17" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="figure.cs" t="Include" />
+        <e p="GeometricFigure.cs" t="Include" />
+        <e p="LibTask5_17.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Rhombus.cs" t="Include" />
+      </e>
+      <e p="LibTask6_17" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="LibTask6_17.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="logic" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="task1_17" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="task1_17.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="task1_17.csproj" t="IncludeRecursive" />
+        <e p="Utils.cs" t="Include" />
+      </e>
+      <e p="task2_17visual" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FormTask2_17.cs" t="Include" />
+        <e p="FormTask2_17.Designer.cs" t="Include" />
+        <e p="FormTask2_17.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="task2_17visual.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="UtilsPack" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MyDialogFile.cs" t="Include" />
+        <e p="MyFileOperation.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="UtilsPack.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="visualization" t="Include" />
+    </e>
+  </component>
+</project>
