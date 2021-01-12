@@ -13,56 +13,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5893c689-d930-4ec3-83d0-de8fd20d8921" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/ISIT/DesignTimeBuild/.dtbcache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/ISIT/v15/.suo" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/db.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.vs/slnx.sqlite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISIT.sln" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ISIT.sln.DotSettings.user" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask2_17/Aling.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask2_17/AnalysisText.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask2_17/LibTask2_17.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask2_17/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask5_17/GeometricFigure.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask5_17/LibTask5_17.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask5_17/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask5_17/Rhombus.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask5_17/figure.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask6_17/Class1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask6_17/LibTask6_17.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask6_17/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UtilsPack/MyDialogFile.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UtilsPack/MyFileDialog.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UtilsPack/MyFileOperation.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UtilsPack/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UtilsPack/UtilsPack.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task1_17/Utils.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_17visual/App.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_17visual/FormTask2_17.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_17visual/FormTask2_17.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_17visual/FormTask2_17.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_17visual/Name1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_17visual/Name2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_17visual/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_17visual/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_17visual/Properties/Resources.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_17visual/Properties/Resources.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_17visual/Properties/Settings.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_17visual/Properties/Settings.settings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_17visual/task2_17visual.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2_17visual/task2_17visual.csproj.user" afterDir="false" />
+    <list default="true" id="5893c689-d930-4ec3-83d0-de8fd20d8921" name="Default Changelist" comment="2">
+      <change afterPath="$PROJECT_DIR$/LibTask5_17/Point.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibTask5_17/GeometricFigure.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask5_17/GeometricFigure.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibTask5_17/LibTask5_17.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask5_17/LibTask5_17.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibTask5_17/Rhombus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask5_17/Rhombus.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +31,7 @@
     <setting file="file://$PROJECT_DIR$/UtilsPack/MyFileDialog.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/UtilsPack/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/b2/b3c33799/IEnumerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://D:/prog/c#/ISIT/LibTask5_17/Rhombus.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -102,8 +58,10 @@
         <option value="$PROJECT_DIR$/task2_17visual/Program.cs" />
         <option value="$PROJECT_DIR$/LibTask2_17/Aling.cs" />
         <option value="$PROJECT_DIR$/LibTask5_17/figure.cs" />
+        <option value="$PROJECT_DIR$/LibTask5_17/Figure.cs" />
         <option value="$PROJECT_DIR$/LibTask5_17/Rhombus.cs" />
         <option value="$PROJECT_DIR$/LibTask5_17/GeometricFigure.cs" />
+        <option value="$PROJECT_DIR$/LibTask5_17/Point.cs" />
       </list>
     </option>
   </component>
@@ -200,7 +158,16 @@
       <workItem from="1609859949967" duration="319000" />
       <workItem from="1609861976389" duration="68000" />
       <workItem from="1610450826087" duration="1808000" />
+      <workItem from="1610470573951" duration="390000" />
     </task>
+    <task id="LOCAL-00001" summary="2">
+      <created>1610470815889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610470815889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,6 +190,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="160" key="#Plugins" timestamp="1609582073016">
@@ -257,10 +226,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="255" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1609586748516" />
-    <state x="788" y="192" key="RiderGenerateDialog" timestamp="1610453323033">
+    <state x="788" y="192" key="RiderGenerateDialog" timestamp="1610470750010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="788" y="192" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610453323033" />
+    <state x="788" y="192" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610470750010" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1610470823695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610470823695" />
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610470614157">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610470614157" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609583678783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,6 +1,6 @@
 namespace LibTask5_17
 {
-    public class Rhombus :GeometricFigure
+    public class Rhombus : GeometricFigure
     {
         
     }

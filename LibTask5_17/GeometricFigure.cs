@@ -9,5 +9,6 @@ namespace LibTask5_17
 {
     public abstract class GeometricFigure : Figure
     {
+        
     }
 }
