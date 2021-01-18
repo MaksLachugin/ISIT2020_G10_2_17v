@@ -26,5 +26,10 @@ namespace LibTask5_17
         {
             return Math.Sqrt(Math.Pow(x - p.x, 2) + Math.Pow(y - p.y, 2));
         }
+
+        public override string ToString()
+        {
+            return x + " " + y;
+        }
     }
 }

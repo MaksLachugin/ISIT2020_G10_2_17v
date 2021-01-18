@@ -77,6 +77,8 @@
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
         </e>
         <e p="test.csproj" t="IncludeRecursive" />
       </e>

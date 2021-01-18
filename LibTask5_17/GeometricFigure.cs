@@ -66,5 +66,21 @@ namespace LibTask5_17
         }
 
         public abstract double CalkS();
+        public virtual string ToString
+        {
+            get
+            {
+                string s = "";
+                for (int i = 0; i < points.Count; i++)
+                {
+                    s += i + "точка " + points[i].ToString() + "\n";
+                }
+                s += "Видимость: " + isVisible + "\n";
+                s += "Можно изменить: " + isCanChange + "\n";
+                s += "Видимость: " +CalkP() + "\n";
+                s += "Видимость: " +CalkS() + "\n";
+                return s;
+            }
+        }
     }
 }

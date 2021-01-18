@@ -13,7 +13,8 @@ namespace LibTask5_17
             get;
             set;
         }
-        void AddPoint(Point point);
-        void RemovePoint(int i);
+
+        double CalkP();
+        double CalkS();
     }
 }
