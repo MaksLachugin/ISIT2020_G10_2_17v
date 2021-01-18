@@ -14,32 +14,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5893c689-d930-4ec3-83d0-de8fd20d8921" name="Default Changelist" comment="3">
-      <change afterPath="$PROJECT_DIR$/LibTask5_17/IFigure.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask6_17/Reflection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/App.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.csproj" afterDir="false" />
+    <list default="true" id="5893c689-d930-4ec3-83d0-de8fd20d8921" name="Default Changelist" comment="4">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ISIT/DesignTimeBuild/.dtbcache" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ISIT/DesignTimeBuild/.dtbcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ISIT/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ISIT/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISIT.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ISIT.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibTask5_17/Figure.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibTask5_17/GeometricFigure.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask5_17/GeometricFigure.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibTask5_17/LibTask5_17.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask5_17/LibTask5_17.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibTask5_17/Point.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask5_17/Point.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibTask5_17/Rhombus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask5_17/Rhombus.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibTask6_17/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask6_17/Class1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibTask6_17/LibTask6_17.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask6_17/LibTask6_17.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibTask6_17/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask6_17/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UtilsPack/MyDialogFile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UtilsPack/MyDialogFile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2_17visual/FormTask2_17.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/task2_17visual/FormTask2_17.Designer.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2_17visual/FormTask2_17.cs" beforeDir="false" afterPath="$PROJECT_DIR$/task2_17visual/FormTask2_17.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LIbTask6_17/Reflection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LIbTask6_17/Reflection.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +61,9 @@
         <option value="$PROJECT_DIR$/LibTask5_17/Rhombus.cs" />
         <option value="$PROJECT_DIR$/LibTask5_17/GeometricFigure.cs" />
         <option value="$PROJECT_DIR$/LibTask5_17/Point.cs" />
+        <option value="$PROJECT_DIR$/LIbTask6_17/ItemMethodInfo.cs" />
+        <option value="$PROJECT_DIR$/LIbTask6_17/ItemType.cs" />
+        <option value="$PROJECT_DIR$/LIbTask6_17/Reflection.cs" />
       </list>
     </option>
   </component>
@@ -200,7 +181,7 @@
       <workItem from="1609861976389" duration="68000" />
       <workItem from="1610450826087" duration="1808000" />
       <workItem from="1610470573951" duration="3385000" />
-      <workItem from="1610928151506" duration="23000" />
+      <workItem from="1610928151506" duration="769000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1610470815889</created>
@@ -223,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610473367057</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="4">
+      <created>1610928350493</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1610928350493</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +236,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="2" />
     <MESSAGE value="3" />
-    <option name="LAST_COMMIT_MESSAGE" value="3" />
+    <MESSAGE value="4" />
+    <option name="LAST_COMMIT_MESSAGE" value="4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="160" key="#Plugins" timestamp="1609582073016">

@@ -29,7 +29,8 @@
       </e>
       <e p="LibTask6_17" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Class1.cs" t="Include" />
+        <e p="ItemMethodInfo.cs" t="Include" />
+        <e p="ItemType.cs" t="Include" />
         <e p="LibTask6_17.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Properties" t="Include">
