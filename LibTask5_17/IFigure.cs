@@ -7,8 +7,13 @@ using System.Threading.Tasks;
 
 namespace LibTask5_17
 {
-    interface Figure
+    public interface IFigure
     {
-
+        List<Point> points {
+            get;
+            set;
+        }
+        void AddPoint(Point point);
+        void RemovePoint(int i);
     }
 }

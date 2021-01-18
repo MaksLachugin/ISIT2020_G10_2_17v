@@ -42,6 +42,8 @@ namespace task2_17visual
             this.numericUpDownLen = new System.Windows.Forms.NumericUpDown();
             this.labelLen = new System.Windows.Forms.Label();
             this.buttonRun = new System.Windows.Forms.Button();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.richTextBox2 = new System.Windows.Forms.RichTextBox();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownLen)).BeginInit();
             this.SuspendLayout();
             // 
@@ -72,7 +74,6 @@ namespace task2_17visual
             this.textBoxRead.Name = "textBoxRead";
             this.textBoxRead.Size = new System.Drawing.Size(205, 20);
             this.textBoxRead.TabIndex = 2;
-            this.textBoxRead.Text = MyDialogFile.BasePathInProject() + "\\Name1.txt";
             // 
             // textBoxWrite
             // 
@@ -81,7 +82,6 @@ namespace task2_17visual
             this.textBoxWrite.Name = "textBoxWrite";
             this.textBoxWrite.Size = new System.Drawing.Size(205, 20);
             this.textBoxWrite.TabIndex = 3;
-            this.textBoxWrite.Text = MyDialogFile.BasePathInProject() + "\\Name2.txt";
             // 
             // buttonRead
             // 
@@ -171,11 +171,29 @@ namespace task2_17visual
             this.buttonRun.UseVisualStyleBackColor = true;
             this.buttonRun.Click += new System.EventHandler(this.buttonRun_Click);
             // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(17, 170);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(262, 268);
+            this.richTextBox1.TabIndex = 12;
+            this.richTextBox1.Text = "";
+            // 
+            // richTextBox2
+            // 
+            this.richTextBox2.Location = new System.Drawing.Point(289, 170);
+            this.richTextBox2.Name = "richTextBox2";
+            this.richTextBox2.Size = new System.Drawing.Size(499, 268);
+            this.richTextBox2.TabIndex = 13;
+            this.richTextBox2.Text = "";
+            // 
             // FormTask2_17
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.richTextBox2);
+            this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.buttonRun);
             this.Controls.Add(this.labelLen);
             this.Controls.Add(this.numericUpDownLen);
@@ -210,5 +228,7 @@ namespace task2_17visual
         private System.Windows.Forms.NumericUpDown numericUpDownLen;
         private System.Windows.Forms.Label labelLen;
         private System.Windows.Forms.Button buttonRun;
+        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.RichTextBox richTextBox2;
     }
 }

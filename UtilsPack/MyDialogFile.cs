@@ -42,10 +42,15 @@ namespace UtilsPack
 
         public static string BasePathInProject() {
             string s = CurrentPath();
+
             if (s.EndsWith("Debug")) {
                 s = s.Substring(0, s.Length - 6);
             }
-            if (s.EndsWith("bin"))
+            if (s.EndsWith("Release"))
+            {
+                s = s.Substring(0, s.Length - 7);
+            }
+            if (s.EndsWith("bin\\"))
             {
                 s = s.Substring(0, s.Length - 4);
             }

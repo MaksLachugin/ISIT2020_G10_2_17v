@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LibTask6_17
+namespace LIbTask6_17
 {
     public class Class1
     {

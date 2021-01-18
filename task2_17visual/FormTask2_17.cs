@@ -10,7 +10,8 @@ namespace task2_17visual
         public FormTask2_17()
         {
             InitializeComponent();
-
+            textBoxRead.Text = MyDialogFile.BasePathInProject()+ "Name1.txt";
+            textBoxWrite.Text = MyDialogFile.BasePathInProject() + "Name2.txt";
         }
 
         private void buttonRead_Click(object sender, EventArgs e)
@@ -31,7 +32,9 @@ namespace task2_17visual
 
         private void buttonRun_Click(object sender, EventArgs e)
         {
+            richTextBox1.Text = MyFileOperation.ReadFromFile(textBoxRead.Text);
             AnalysisText.ReCreateText(textBoxRead.Text, textBoxWrite.Text, (radioButtonLeft.Checked) ? Aling.Left : Aling.Right, (int) numericUpDownLen.Value);
+            richTextBox2.Text = MyFileOperation.ReadFromFile(textBoxWrite.Text);
         }
     }
 }
