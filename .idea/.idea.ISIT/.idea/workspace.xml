@@ -8,6 +8,9 @@
     <projectFile>WindowsFormsApp1/WindowsFormsApp1.csproj</projectFile>
     <projectFile>task2_17visual/task2_17visual.csproj</projectFile>
     <projectFile>test/test.csproj</projectFile>
+    <projectFile>task6_17/task6_17.csproj</projectFile>
+    <projectFile>task6_17/task6_17visual.csproj</projectFile>
+    <projectFile>Task4_17_5visual/Task4_17_5visual.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand />
@@ -15,9 +18,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5893c689-d930-4ec3-83d0-de8fd20d8921" name="Default Changelist" comment="5">
-      <change afterPath="$PROJECT_DIR$/test/Properties/Resources.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/Properties/Resources.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test.csproj.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibTask4_17_5/LibTask4_17_5.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibTask4_17_5/Node.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibTask4_17_5/PrefixTree.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibTask4_17_5/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibTask4_17_5/WrongWord.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Form1.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Form1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Form1.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Properties/Resources.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Properties/Resources.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Properties/Settings.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Properties/Settings.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Task4_17_5visual.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6_17visual/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6_17visual/Form1.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6_17visual/Form1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6_17visual/Form1.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6_17visual/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6_17visual/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6_17visual/Properties/Resources.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6_17visual/Properties/Resources.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6_17visual/Properties/Settings.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6_17visual/Properties/Settings.settings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6_17visual/task6_17visual.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/ISIT/DesignTimeBuild/.dtbcache" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ISIT/DesignTimeBuild/.dtbcache" afterDir="false" />
@@ -26,10 +53,12 @@
       <change beforePath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ISIT.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ISIT.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ISIT.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/ISIT.sln.DotSettings.user" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LibTask5_17/GeometricFigure.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask5_17/GeometricFigure.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibTask5_17/Point.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask5_17/Point.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibTask5_17/Rhombus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask5_17/Rhombus.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibTask6_17/Reflection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask6_17/Reflection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtilsPack/MyDialogFile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UtilsPack/MyDialogFile.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/test/test.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,8 +104,12 @@
         <option value="$PROJECT_DIR$/LIbTask6_17/ItemMethodInfo.cs" />
         <option value="$PROJECT_DIR$/LIbTask6_17/ItemType.cs" />
         <option value="$PROJECT_DIR$/LIbTask6_17/Reflection.cs" />
-        <option value="$PROJECT_DIR$/test/Program.cs" />
         <option value="$PROJECT_DIR$/LibTask5_17/Point.cs" />
+        <option value="$PROJECT_DIR$/LibTask5_17/IFigure.cs" />
+        <option value="$PROJECT_DIR$/task6_17/task6_17vi.csproj" />
+        <option value="$PROJECT_DIR$/task6_17/Program.cs" />
+        <option value="$PROJECT_DIR$/task6_17/Form1.cs" />
+        <option value="$PROJECT_DIR$/test/Program.cs" />
       </list>
     </option>
   </component>
@@ -97,7 +130,25 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.task2_17">
+  <component name="RunManager" selected=".NET Project.task6_17visual">
+    <configuration name="Task4_17_5visual" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Task4_17_5visual/Task4_17_5visual.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="task1_17" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -152,6 +203,42 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="task6_17" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/task6_17/task6_17.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="task6_17visual" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/task6_17visual/bin/Debug/task6_17visual.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/task6_17/task6_17.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="0" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Unloaded" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" default="false" projectName="task6_17visual" projectPath="D:\prog\c#\ISIT\task6_17visual\task6_17visual.csproj" />
+      </method>
+    </configuration>
     <configuration name="test" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -175,6 +262,9 @@
       <item itemvalue=".NET Project.task2_17" />
       <item itemvalue=".NET Project.task2_17visual" />
       <item itemvalue=".NET Project.test" />
+      <item itemvalue=".NET Project.task6_17" />
+      <item itemvalue=".NET Project.task6_17visual" />
+      <item itemvalue=".NET Project.Task4_17_5visual" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -195,7 +285,11 @@
       <workItem from="1610450826087" duration="1808000" />
       <workItem from="1610470573951" duration="3385000" />
       <workItem from="1610928151506" duration="1117000" />
-      <workItem from="1610931500676" duration="1089000" />
+      <workItem from="1610931500676" duration="6014000" />
+      <workItem from="1611019808489" duration="670000" />
+      <workItem from="1611020935633" duration="71000" />
+      <workItem from="1611029181522" duration="840000" />
+      <workItem from="1611158236663" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1610470815889</created>
@@ -232,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610929148967</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="6">
+      <created>1610934081960</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610934081960</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,17 +360,18 @@
     <MESSAGE value="3" />
     <MESSAGE value="4" />
     <MESSAGE value="5" />
-    <option name="LAST_COMMIT_MESSAGE" value="5" />
+    <MESSAGE value="6" />
+    <option name="LAST_COMMIT_MESSAGE" value="6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="160" key="#Plugins" timestamp="1609582073016">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="160" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1609582073016" />
-    <state x="414" y="174" width="1092" height="811" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609587382012">
+    <state x="414" y="157" width="1092" height="883" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611030026329">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="174" width="1092" height="811" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609587382012" />
+    <state x="414" y="157" width="1092" height="883" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611030026329" />
     <state x="1120" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609580700391">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -290,25 +392,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609587993846" />
-    <state x="1032" y="255" key="Rider.ProjectTemplateDialog.Size" timestamp="1609586748516">
+    <state x="269" y="23" key="Rider.ProjectTemplateDialog.Size" timestamp="1610942985849">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="255" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1609586748516" />
+    <state x="269" y="23" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1610942985849" />
     <state x="788" y="192" key="RiderGenerateDialog" timestamp="1610470750010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="788" y="192" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610470750010" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1610473215747">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1610934088135">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610473215747" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610934088135" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610470614157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610470614157" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609583678783">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611020221983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1609583678783" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611020221983" />
   </component>
 </project>

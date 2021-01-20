@@ -7,8 +7,7 @@ namespace test
     {
         static void Main(string[] args)
         {
-            IFigure figure = new Rhombus(new List<Point>(), true, true );
-            
+
         }
     }
 }

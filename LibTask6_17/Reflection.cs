@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Linq;
 using System.Reflection;
 using System.Text;
-using LibTask5_17;
 
 namespace LIbTask6_17
 {
-    class Reflection
+    public class Reflection
     {
 
         public static List<ItemMethodInfo> ShowMethods(ItemType item)
@@ -48,15 +46,25 @@ namespace LIbTask6_17
         }
         public static List<ItemType> ShowClasses(string library)
         {
-           Type typeInterface = typeof(IFigure);
-           Assembly asm = Assembly.LoadFrom(library);
+            var typeInterface = typeof(LibTask5_17.IFigure);
+            Assembly asm = Assembly.LoadFrom(library);
             List<ItemType> items = new List<ItemType>();
-            foreach (Type mytype in asm.GetTypes()
-                 .Where(mytype => mytype.GetInterfaces().Contains(typeInterface)))
+
+            foreach (Type mytype in asm.GetTypes())
             {
-                if (!mytype.IsAbstract)
+
+                if (!mytype.IsAbstract && !mytype.IsInterface)
                 {
-                    items.Add(new ItemType(mytype, mytype.FullName));
+                    Type[] types = mytype.GetInterfaces();
+                    foreach (Type t in types)
+                    {
+                        if (t.FullName.Equals(typeInterface.FullName))
+                        {
+                            items.Add(new ItemType(mytype, mytype.FullName));
+                            break;
+
+                        }
+                    }
                 }
             }
             return items;
@@ -103,8 +111,17 @@ namespace LIbTask6_17
             {
                 ParameterInfo[] parameters = constructor.GetParameters();
                 Object[] argsObj = strToObjs(parameters, args);
-                object newClass = constructor.Invoke(argsObj);
-                return newClass;
+                try
+                {
+                    object newClass = constructor.Invoke(new object[0]);
+                    constructor.Invoke(new object[0]);
+                    return newClass;
+                }
+                catch
+                {
+                    Console.WriteLine("RIP");
+                    return null;
+                }
             }
             return null;
         }
@@ -122,7 +139,7 @@ namespace LIbTask6_17
         }
     }
 
-    
+
 
 }
 

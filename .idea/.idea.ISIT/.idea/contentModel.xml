@@ -15,6 +15,17 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
       </e>
+      <e p="LibTask4_17_5" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="LibTask4_17_5.csproj" t="IncludeRecursive" />
+        <e p="Node.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="PrefixTree.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="WrongWord.cs" t="Include" />
+      </e>
       <e p="LibTask5_17" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="GeometricFigure.cs" t="Include" />
@@ -40,6 +51,7 @@
       </e>
       <e p="logic" t="Include" />
       <e p="packages" t="ExcludeRecursive" />
+      <e p="siakod" t="Include" />
       <e p="task1_17" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
@@ -69,6 +81,40 @@
           <e p="Settings.settings" t="Include" />
         </e>
         <e p="task2_17visual.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Task4_17_5visual" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="Task4_17_5visual.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="task6_17visual" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+          <e p="Settings.Designer.cs" t="Include" />
+          <e p="Settings.settings" t="Include" />
+        </e>
+        <e p="task6_17visual.csproj" t="IncludeRecursive" />
       </e>
       <e p="test" t="IncludeRecursive">
         <e p="App.config" t="Include" />

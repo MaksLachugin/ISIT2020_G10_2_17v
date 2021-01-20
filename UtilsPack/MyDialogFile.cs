@@ -50,12 +50,12 @@ namespace UtilsPack
             {
                 s = s.Substring(0, s.Length - 7);
             }
-            if (s.EndsWith("bin\\"))
+            if (s.EndsWith("bin"))
             {
                 s = s.Substring(0, s.Length - 4);
             }
 
-            return s;
+            return s+ "\\";
         }
     }
 
