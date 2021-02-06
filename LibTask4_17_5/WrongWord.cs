@@ -13,7 +13,7 @@ namespace LibTask4_17_5
 
         public WrongWord(string s, List<int> badWords)
         {
-            Stroka = s;
+            Stroka = s.Substring(1);
             IndexBadWords = badWords;
         }
         public WrongWord(string s)
@@ -28,10 +28,21 @@ namespace LibTask4_17_5
 
         public string EndOfWord(int i)
         {
-            return Stroka.Substring(i + 1, Stroka.Length - i - 1);
+            if (Stroka.Length >= i)
+            {
+                return Stroka.Substring(i + 1);
+            }
+            else
+            {
+                return "";
+            }
         }
         public string StartOfWord(int i)
         {
+            if (i == 0)
+            {
+                return "";
+            }
             return Stroka.Substring(0, i);
         }
 
@@ -42,6 +53,11 @@ namespace LibTask4_17_5
         public char[] ToCharArray()
         {
             return Stroka.ToCharArray();
+        }
+
+        public string GetStr()
+        {
+            return Stroka;
         }
     }
 }

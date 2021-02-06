@@ -84,6 +84,10 @@
       <Project>{2f258cf0-7ec9-418c-afa4-fa2d19d746bc}</Project>
       <Name>LibTask4_17_5</Name>
     </ProjectReference>
+    <ProjectReference Include="..\UtilsPack\UtilsPack.csproj">
+      <Project>{c7b10a35-61eb-42e8-a581-f2f93e3fbaff}</Project>
+      <Name>UtilsPack</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

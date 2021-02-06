@@ -18,7 +18,7 @@ namespace LibTask5_17
             points = new List<Point>();
 
             isVisible = true;
-            isCanChange = false;
+            isCanChange = true;
         }
 
         public override void AddPoint(int x, int y)

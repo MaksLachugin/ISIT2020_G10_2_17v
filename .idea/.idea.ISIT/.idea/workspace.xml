@@ -11,40 +11,16 @@
     <projectFile>task6_17/task6_17.csproj</projectFile>
     <projectFile>task6_17/task6_17visual.csproj</projectFile>
     <projectFile>Task4_17_5visual/Task4_17_5visual.csproj</projectFile>
+    <projectFile>WinFormsApp1/WinFormsApp1.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand />
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5893c689-d930-4ec3-83d0-de8fd20d8921" name="Default Changelist" comment="5">
-      <change afterPath="$PROJECT_DIR$/LibTask4_17_5/LibTask4_17_5.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask4_17_5/Node.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask4_17_5/PrefixTree.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask4_17_5/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibTask4_17_5/WrongWord.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/App.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Form1.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Form1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Form1.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Properties/Resources.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Properties/Resources.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Properties/Settings.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Properties/Settings.settings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Task4_17_5visual/Task4_17_5visual.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6_17visual/App.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6_17visual/Form1.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6_17visual/Form1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6_17visual/Form1.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6_17visual/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6_17visual/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6_17visual/Properties/Resources.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6_17visual/Properties/Resources.resx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6_17visual/Properties/Settings.Designer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6_17visual/Properties/Settings.settings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task6_17visual/task6_17visual.csproj" afterDir="false" />
+    <list default="true" id="5893c689-d930-4ec3-83d0-de8fd20d8921" name="Default Changelist" comment="fixed 0.1">
+      <change afterPath="$PROJECT_DIR$/Dic_Big1.dic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibTask4_17_5/Utils.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ISIT/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/ISIT/DesignTimeBuild/.dtbcache" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ISIT/DesignTimeBuild/.dtbcache" afterDir="false" />
@@ -52,13 +28,15 @@
       <change beforePath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/ISIT/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISIT.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ISIT.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ISIT.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/ISIT.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibTask4_17_5/LibTask4_17_5.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask4_17_5/LibTask4_17_5.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibTask4_17_5/Node.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask4_17_5/Node.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibTask4_17_5/PrefixTree.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask4_17_5/PrefixTree.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibTask4_17_5/WrongWord.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask4_17_5/WrongWord.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LibTask5_17/GeometricFigure.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask5_17/GeometricFigure.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibTask5_17/Rhombus.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask5_17/Rhombus.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibTask6_17/Reflection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibTask6_17/Reflection.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UtilsPack/MyDialogFile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UtilsPack/MyDialogFile.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_17_5visual/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_17_5visual/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_17_5visual/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_17_5visual/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task4_17_5visual/Task4_17_5visual.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Task4_17_5visual/Task4_17_5visual.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UtilsPack/MyFileOperation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UtilsPack/MyFileOperation.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,9 +47,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/UtilsPack/MyFileDialog.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/UtilsPack/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/b2/b3c33799/IEnumerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UtilsPack/MyFileDialog.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -100,15 +77,19 @@
         <option value="$PROJECT_DIR$/LibTask5_17/figure.cs" />
         <option value="$PROJECT_DIR$/LibTask5_17/Figure.cs" />
         <option value="$PROJECT_DIR$/LibTask5_17/Rhombus.cs" />
-        <option value="$PROJECT_DIR$/LibTask5_17/GeometricFigure.cs" />
         <option value="$PROJECT_DIR$/LIbTask6_17/ItemMethodInfo.cs" />
         <option value="$PROJECT_DIR$/LIbTask6_17/ItemType.cs" />
-        <option value="$PROJECT_DIR$/LIbTask6_17/Reflection.cs" />
         <option value="$PROJECT_DIR$/LibTask5_17/Point.cs" />
-        <option value="$PROJECT_DIR$/LibTask5_17/IFigure.cs" />
         <option value="$PROJECT_DIR$/task6_17/task6_17vi.csproj" />
         <option value="$PROJECT_DIR$/task6_17/Program.cs" />
         <option value="$PROJECT_DIR$/task6_17/Form1.cs" />
+        <option value="$PROJECT_DIR$/Task4_17_5visual/Form1.cs" />
+        <option value="$PROJECT_DIR$/LibTask4_17_5/PrefixTree.cs" />
+        <option value="$PROJECT_DIR$/WinFormsApp1/Form1.cs" />
+        <option value="$PROJECT_DIR$/WinFormsApp1/Program.cs" />
+        <option value="$PROJECT_DIR$/LIbTask6_17/Reflection.cs" />
+        <option value="$PROJECT_DIR$/LibTask5_17/IFigure.cs" />
+        <option value="$PROJECT_DIR$/LibTask5_17/GeometricFigure.cs" />
         <option value="$PROJECT_DIR$/test/Program.cs" />
       </list>
     </option>
@@ -125,16 +106,19 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ChangesTree.GroupingKeys" value="" />
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.248104" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.21289274" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.task6_17visual">
+  <component name="RunManager" selected=".NET Project.test">
     <configuration name="Task4_17_5visual" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Task4_17_5visual/bin/Debug/Task4_17_5visual.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Task4_17_5visual/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -144,7 +128,25 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="WinFormsApp1" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WinFormsApp1/bin/Debug/net472-windows/WinFormsApp1.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WinFormsApp1/bin/Debug/net472-windows" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WinFormsApp1/WinFormsApp1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -179,16 +181,16 @@
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_KIND" value="Unloaded" />
       <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
       <method v="2">
         <option name="Build" />
       </method>
     </configuration>
     <configuration name="task2_17visual" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/task2_17visual/bin/Debug/task2_17visual.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task2_17visual/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -198,7 +200,7 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
       <method v="2">
         <option name="Build" />
       </method>
@@ -215,7 +217,7 @@
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_KIND" value="Unloaded" />
       <option name="PROJECT_TFM" value="" />
       <method v="2">
         <option name="Build" />
@@ -224,25 +226,23 @@
     <configuration name="task6_17visual" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/task6_17visual/bin/Debug/task6_17visual.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task6_17visual/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/task6_17/task6_17.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/task6_17visual/task6_17visual.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="Unloaded" />
-      <option name="PROJECT_TFM" value="" />
-      <method v="2">
-        <option name="Build" default="false" projectName="task6_17visual" projectPath="D:\prog\c#\ISIT\task6_17visual\task6_17visual.csproj" />
-      </method>
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="0" />
+      <option name="PROJECT_KIND" value="StaticMethod" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
+      <method v="2" />
     </configuration>
     <configuration name="test" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/test/bin/Debug/test.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/bin/Debug" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
@@ -252,19 +252,20 @@
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
       <option name="PROJECT_KIND" value="Console" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.1" />
       <method v="2">
         <option name="Build" />
       </method>
     </configuration>
     <list>
       <item itemvalue=".NET Project.task1_17" />
-      <item itemvalue=".NET Project.task2_17" />
       <item itemvalue=".NET Project.task2_17visual" />
+      <item itemvalue=".NET Project.task2_17" />
       <item itemvalue=".NET Project.test" />
       <item itemvalue=".NET Project.task6_17" />
       <item itemvalue=".NET Project.task6_17visual" />
       <item itemvalue=".NET Project.Task4_17_5visual" />
+      <item itemvalue=".NET Project.WinFormsApp1" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -290,6 +291,10 @@
       <workItem from="1611020935633" duration="71000" />
       <workItem from="1611029181522" duration="840000" />
       <workItem from="1611158236663" duration="22000" />
+      <workItem from="1611159175298" duration="674000" />
+      <workItem from="1611171230654" duration="1322000" />
+      <workItem from="1611212983170" duration="154000" />
+      <workItem from="1612613986882" duration="8871000" />
     </task>
     <task id="LOCAL-00001" summary="2">
       <created>1610470815889</created>
@@ -333,7 +338,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610934081960</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="SiAKOD edition v0.5">
+      <created>1611159229826</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611159229826</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,56 +373,318 @@
     <MESSAGE value="4" />
     <MESSAGE value="5" />
     <MESSAGE value="6" />
-    <option name="LAST_COMMIT_MESSAGE" value="6" />
+    <MESSAGE value="SiAKOD edition v0.5" />
+    <MESSAGE value="fixed 0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed 0.1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1032" y="160" key="#Plugins" timestamp="1609582073016">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1032" y="160" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1609582073016" />
-    <state x="414" y="157" width="1092" height="883" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611030026329">
+    <state x="414" y="37" width="1092" height="1003" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612614867532">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="157" width="1092" height="883" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611030026329" />
+    <state x="414" y="37" width="1092" height="1003" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612614867532" />
     <state x="1120" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1609580700391">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1120" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609580700391" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1609587993847">
+    <state width="434" height="464" key="DebuggerActiveHint" timestamp="1612638010246">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609587993847" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1609587993846">
+    <state width="434" height="464" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1612638010246" />
+    <state width="1877" height="355" key="GridCell.Tab.0.bottom" timestamp="1612648380355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609587993846" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1609587993846">
+    <state width="1877" height="355" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380355" />
+    <state width="1877" height="355" key="GridCell.Tab.0.center" timestamp="1612648380355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609587993846" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1609587993846">
+    <state width="1877" height="355" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380355" />
+    <state width="1877" height="355" key="GridCell.Tab.0.left" timestamp="1612648380355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609587993846" />
-    <state x="269" y="23" key="Rider.ProjectTemplateDialog.Size" timestamp="1610942985849">
+    <state width="1877" height="355" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380355" />
+    <state width="1877" height="355" key="GridCell.Tab.0.right" timestamp="1612648380355">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="269" y="23" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1610942985849" />
+    <state width="1877" height="355" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380355" />
+    <state width="1877" height="355" key="GridCell.Tab.1.bottom" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state width="1877" height="355" key="GridCell.Tab.1.center" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state width="1877" height="355" key="GridCell.Tab.1.left" timestamp="1612648380355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380355" />
+    <state width="1877" height="355" key="GridCell.Tab.1.right" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state width="1877" height="355" key="GridCell.Tab.2.bottom" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.2.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state width="1877" height="355" key="GridCell.Tab.2.center" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.2.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state width="1877" height="355" key="GridCell.Tab.2.left" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.2.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state width="1877" height="355" key="GridCell.Tab.2.right" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state width="1877" height="355" key="GridCell.Tab.3.bottom" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.3.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state width="1877" height="355" key="GridCell.Tab.3.center" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.3.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state width="1877" height="355" key="GridCell.Tab.3.left" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.3.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state width="1877" height="355" key="GridCell.Tab.3.right" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.3.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state width="1877" height="355" key="GridCell.Tab.4.bottom" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.4.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state width="1877" height="355" key="GridCell.Tab.4.center" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.4.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state width="1877" height="355" key="GridCell.Tab.4.left" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.4.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state width="1877" height="355" key="GridCell.Tab.4.right" timestamp="1612648380356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="355" key="GridCell.Tab.4.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612648380356" />
+    <state x="269" y="23" key="Rider.ProjectTemplateDialog.Size" timestamp="1612614717779">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="269" y="23" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1612614717779" />
     <state x="788" y="192" key="RiderGenerateDialog" timestamp="1610470750010">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="788" y="192" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610470750010" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1610934088135">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1612648367117">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610934088135" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612648367117" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1611159242065">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611159242065" />
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610470614157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610470614157" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1611020221983">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1612638486903">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611020221983" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612638486903" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LIbTask6_17/Reflection.cs</url>
+          <line>113</line>
+          <properties documentPath="D:\prog\c#\ISIT\LIbTask6_17\Reflection.cs" initialLine="113">
+            <startOffsets>
+              <option value="4038" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4065" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LIbTask6_17/Reflection.cs</url>
+          <line>114</line>
+          <properties documentPath="D:\prog\c#\ISIT\LIbTask6_17\Reflection.cs" initialLine="114">
+            <startOffsets>
+              <option value="4078" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4145" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LIbTask6_17/Reflection.cs</url>
+          <line>115</line>
+          <properties documentPath="D:\prog\c#\ISIT\LIbTask6_17\Reflection.cs" initialLine="115">
+            <startOffsets>
+              <option value="4158" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4159" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LIbTask6_17/Reflection.cs</url>
+          <line>116</line>
+          <properties documentPath="D:\prog\c#\ISIT\LIbTask6_17\Reflection.cs" initialLine="116">
+            <startOffsets>
+              <option value="4176" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4233" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LIbTask6_17/Reflection.cs</url>
+          <line>118</line>
+          <properties documentPath="D:\prog\c#\ISIT\LIbTask6_17\Reflection.cs" initialLine="118">
+            <startOffsets>
+              <option value="4314" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4649" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LIbTask6_17/Reflection.cs</url>
+          <line>117</line>
+          <properties documentPath="D:\prog\c#\ISIT\LIbTask6_17\Reflection.cs" initialLine="117">
+            <startOffsets>
+              <option value="4250" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4297" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LIbTask6_17/Reflection.cs</url>
+          <line>135</line>
+          <properties documentPath="D:\prog\c#\ISIT\LIbTask6_17\Reflection.cs" initialLine="135">
+            <startOffsets>
+              <option value="4804" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4839" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LIbTask6_17/Reflection.cs</url>
+          <line>136</line>
+          <properties documentPath="D:\prog\c#\ISIT\LIbTask6_17\Reflection.cs" initialLine="136">
+            <startOffsets>
+              <option value="4852" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4901" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LIbTask6_17/Reflection.cs</url>
+          <line>137</line>
+          <properties documentPath="D:\prog\c#\ISIT\LIbTask6_17\Reflection.cs" initialLine="137">
+            <startOffsets>
+              <option value="4914" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4957" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LIbTask6_17/Reflection.cs</url>
+          <line>138</line>
+          <properties documentPath="D:\prog\c#\ISIT\LIbTask6_17\Reflection.cs" initialLine="138">
+            <startOffsets>
+              <option value="4970" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4971" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LIbTask6_17/Reflection.cs</url>
+          <line>139</line>
+          <properties documentPath="D:\prog\c#\ISIT\LIbTask6_17\Reflection.cs" initialLine="139">
+            <startOffsets>
+              <option value="4988" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5075" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LIbTask6_17/Reflection.cs</url>
+          <line>140</line>
+          <properties documentPath="D:\prog\c#\ISIT\LIbTask6_17\Reflection.cs" initialLine="140">
+            <startOffsets>
+              <option value="5092" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5149" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LIbTask6_17/Reflection.cs</url>
+          <line>142</line>
+          <properties documentPath="D:\prog\c#\ISIT\LIbTask6_17\Reflection.cs" initialLine="142">
+            <startOffsets>
+              <option value="5176" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5191" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LIbTask6_17/Reflection.cs</url>
+          <line>141</line>
+          <properties documentPath="D:\prog\c#\ISIT\LIbTask6_17\Reflection.cs" initialLine="141">
+            <startOffsets>
+              <option value="5162" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5163" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

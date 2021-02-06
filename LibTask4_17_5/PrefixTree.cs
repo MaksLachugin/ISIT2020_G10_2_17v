@@ -33,7 +33,7 @@ namespace LibTask4_17_5
         }
         public List<WrongWord> FindMissprint(WrongWord word)
         {
-            List<WrongWord> res = new List<WrongWord>();
+          List<WrongWord> res = new List<WrongWord>();
             for (int i = 0; i < word.Length(); i++)
             {
                 if (word.IsWrongChar(i))
@@ -67,21 +67,16 @@ namespace LibTask4_17_5
                     temp.AddRange(FindMissprint(element));
                 }
                 result.Clear();
-                result = Clone(temp);
+                result = Utils<WrongWord>.Clone(temp);
                 temp.Clear();
             }
-            return temp;
+            return result;
         }
-        private List<WrongWord> Clone(List<WrongWord> list)
-        {
-            WrongWord[] t = new WrongWord[list.Count];
-            list.CopyTo(t);
-            return new List<WrongWord>();
-        }
+
         public List<string> GetWords()
         {
             List<string> listWords = new List<string>();
-            List<Node> q = first.GetChildren();
+            List<Node> q = Utils<Node>.Clone(first.GetChildren());
             while (q.Count != 0)
             {
                 if (q[0] != null && q[0].IsEdnCharOfWord)
@@ -100,6 +95,16 @@ namespace LibTask4_17_5
             {
                 Add(s.ToLower());
             }
+        }
+
+        public List<string> FindManyMissprintInStr(string word, int count)
+        {
+            List<string> t = new List<string>();
+            foreach (WrongWord wrongWord in FindManyMissprint(word, count))
+            {
+                t.Add(wrongWord.GetStr());
+            }
+            return t;
         }
     }
 }

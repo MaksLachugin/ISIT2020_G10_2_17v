@@ -96,6 +96,10 @@
       <Project>{b1050218-cdbe-4d2d-915a-36156f45fe22}</Project>
       <Name>LIbTask6_17</Name>
     </ProjectReference>
+    <ProjectReference Include="..\UtilsPack\UtilsPack.csproj">
+      <Project>{c7b10a35-61eb-42e8-a581-f2f93e3fbaff}</Project>
+      <Name>UtilsPack</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

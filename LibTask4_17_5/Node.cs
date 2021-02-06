@@ -63,10 +63,14 @@ namespace LibTask4_17_5
                     return node;
                 }
             }
-            return null;
+            Node t = new Node(el, false, parents + ch);
+            this.Add(t);
+            return t;
         }
         public Node GetChild(string word)
         {
+            if (word.ToCharArray()[0].Equals('\0')) word = word.Substring(1);
+            word =word.ToLower();
             if (word.Length == 0)
             {
                 return this;
@@ -77,7 +81,10 @@ namespace LibTask4_17_5
             }
             else
             {
+                Node t = GetChild(word.ToCharArray()[0]).GetChild(word.Substring(1));
+                if (t !=null)
                 return GetChild(word.ToCharArray()[0]).GetChild(word.Substring(1));
+                return null;
             }
         }
         public bool InChildren(char el)

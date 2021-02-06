@@ -9,10 +9,7 @@ namespace LibTask5_17
 {
     public interface IFigure
     {
-        List<Point> points {
-            get;
-            set;
-        }
+        List<Point> points { get; set; }
 
         double CalkP();
         double CalkS();

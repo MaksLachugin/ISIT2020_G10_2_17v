@@ -33,6 +33,10 @@ namespace UtilsPack
             sr.Close();
             return t;
         }
+        public static string[] ReadFromFileInArray(string path)
+        {
+            return ReadFromFile(path).Split();
+        }
     }
 
 }

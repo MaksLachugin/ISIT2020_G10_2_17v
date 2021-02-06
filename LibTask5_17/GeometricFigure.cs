@@ -4,13 +4,7 @@ namespace LibTask5_17
 {
     public abstract class GeometricFigure : IFigure
     {
-
-
-        public List<Point> points
-        {
-            get => points;
-            set => points = value;
-        }
+        
         public void AddPoint(Point point)
         {
             if (isCanChange)
@@ -48,6 +42,8 @@ namespace LibTask5_17
             ChangePoint(index, new Point(x, y));
         }
 
+        public List<Point> points { get; set; }
+
         public double CalkP()
         {
             if (Count != points.Count) return 0;
@@ -64,23 +60,22 @@ namespace LibTask5_17
         }
 
         public abstract double CalkS();
-        public new virtual string ToString
+        public override string ToString()
         {
-            get
+
+            string s = "";
+            for (int i = 0; i < points.Count; i++)
             {
-                string s = "";
-                for (int i = 0; i < points.Count; i++)
-                {
-                    s += i + "точка " + points[i].ToString() + "\n";
-                }
-                s += "Видимость: " + isVisible + "\n";
-                s += "Можно изменить: " + isCanChange + "\n";
-                s += "Видимость: " + CalkP() + "\n";
-                s += "Видимость: " + CalkS() + "\n";
-                return s;
+                s += i + "точка " + points[i].ToString() + "\n";
             }
+            s += "Видимость: " + isVisible + "\n";
+            s += "Можно изменить: " + isCanChange + "\n";
+            s += "Видимость: " + CalkP() + "\n";
+            s += "Видимость: " + CalkS() + "\n";
+            return s;
+
         }
 
-        public int Count { get;  set;}
+        public int Count { get; set; }
     }
 }

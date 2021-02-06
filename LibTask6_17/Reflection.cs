@@ -104,6 +104,11 @@ namespace LIbTask6_17
             return method.Invoke(obj, objects).ToString();
         }
 
+        public static Object CreateObject(ItemType item)
+        {
+            return CreateObject(item, "");
+        }
+
         public static Object CreateObject(ItemType item, String args)
         {
             Type classObj = item.Value;
@@ -113,7 +118,7 @@ namespace LIbTask6_17
                 Object[] argsObj = strToObjs(parameters, args);
                 try
                 {
-                    object newClass = constructor.Invoke(new object[0]);
+                    object newClass = constructor.Invoke(argsObj);
                     constructor.Invoke(new object[0]);
                     return newClass;
                 }

@@ -24,6 +24,7 @@
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
+        <e p="Utils.cs" t="Include" />
         <e p="WrongWord.cs" t="Include" />
       </e>
       <e p="LibTask5_17" t="IncludeRecursive">
